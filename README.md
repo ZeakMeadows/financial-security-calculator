@@ -22,10 +22,11 @@ A secure Python application providing investment and home loan repayment calcula
 
 ## Installation
 
-```bash
+` ` `bash
 git clone https://github.com/ZeakMeadows/financial-security-calculator.git
 cd financial-security-calculator
-python financial_calculator.py```
+python financial_calculator.py
+` ` `
 
 ## What I Learned
 
