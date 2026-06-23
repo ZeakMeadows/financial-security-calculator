@@ -26,3 +26,16 @@ A secure Python application providing investment and home loan repayment calcula
 git clone https://github.com/ZeakMeadows/financial-security-calculator.git
 cd financial-security-calculator
 python financial_calculator.py
+
+## What I Learned
+
+- Secure coding practices for financial applications
+- Input validation and sanitization techniques
+- Exception handling to prevent application crashes
+- Defensive programming principles
+
+## Future Improvements
+
+- [ ] Add password protection for sensitive calculations
+- [ ] Implement audit logging for all calculations
+- [ ] Add data encryption for stored financial data
